@@ -2,7 +2,7 @@ ADSapi <br />
 
 Usage:<br />
 <b>ADSWriter(String_Data,File_Location,Stream_Name) <br />
-ADSReader(FIle_Location,Stream_Name </b>
+ADSReader(FIle_Location,Stream_Name) </b>
 <br />
 
 Example:<br />
