@@ -1,0 +1,6 @@
+C:\Users\R740\Documents\GitHub\ADSapi\ADSAPI\bin\Debug\ADSAPI.exe.config
+C:\Users\R740\Documents\GitHub\ADSapi\ADSAPI\bin\Debug\ADSAPI.exe
+C:\Users\R740\Documents\GitHub\ADSapi\ADSAPI\bin\Debug\ADSAPI.pdb
+C:\Users\R740\Documents\GitHub\ADSapi\ADSAPI\obj\Debug\ADSAPI.csprojResolveAssemblyReference.cache
+C:\Users\R740\Documents\GitHub\ADSapi\ADSAPI\obj\Debug\ADSAPI.exe
+C:\Users\R740\Documents\GitHub\ADSapi\ADSAPI\obj\Debug\ADSAPI.pdb
